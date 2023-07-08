@@ -1,0 +1,11 @@
+/* Write your code here: */
+h1,h2 {
+color: blueviolet;
+}
+div>p{
+    color:firebrick;
+}
+/* this rule will change the color off all the paragraphs inside the div */
+.box > p{
+    color:firebrick;
+}
